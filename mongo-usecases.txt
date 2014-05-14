@@ -1,0 +1,5 @@
+mongo db usecases
+
+http://docs.mongodb.org/ecosystem/use-cases/
+http://www.mongodb.org/about/production-deployments/
+
